@@ -13,3 +13,4 @@ The project covers the following areas:
 
 The results of this analysis provide valuable insights into the video game industry and can inform decision-making for game development and marketing strategies. The code and findings of this analysis are available in this repository, and can be used as a starting point for further research and analysis.
 The link to the dataset used to perform this analysis can be found here: https://www.kaggle.com/datasets/gregorut/videogamesales
+I have made a short powepoint presentation, you can find the link to the video here: https://drive.google.com/file/d/13tE66tUNMKC054PnwQtIQiGjOgKGQy0T/view?usp=sharing
