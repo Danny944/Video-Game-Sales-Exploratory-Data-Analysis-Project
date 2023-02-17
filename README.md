@@ -4,8 +4,12 @@ This project analyzes video game sales data across different platforms, genres, 
 The project covers the following areas:
 
 1.Identifying the top-selling video games across different platforms and regions
+
 2.Examining the impact of factors such as genre, publisher, and release year on video game sales
+
 3.Monitoring the popularity of different video game platforms over time
+
 4.Analyzing the relationship between the sales of video games and the release year, platform, and publisher
+
 The results of this analysis provide valuable insights into the video game industry and can inform decision-making for game development and marketing strategies. The code and findings of this analysis are available in this repository, and can be used as a starting point for further research and analysis.
 The link to the dataset used to perform this analysis can be found here: https://www.kaggle.com/datasets/gregorut/videogamesales
